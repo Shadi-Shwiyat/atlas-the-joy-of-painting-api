@@ -1,0 +1,17 @@
+{
+  "name": "atlas-the-joy-of-painting-api",
+  "version": "1.0.0",
+  "description": "An api for interacting with a data for the show 'The joy of painting'",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Shadi Shwiyat",
+  "license": "ISC",
+  "homepage": "https://github.com/Shadi-Shwiyat/atlas-the-joy-of-painting-api#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1"
+  }
+}
