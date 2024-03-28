@@ -12,6 +12,10 @@
   "dependencies": {
     "express": "^4.19.2",
     "lodash": "^4.17.21",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.3"
+  },
+  "devDependencies": {
+    "@types/mysql": "^2.15.26"
   }
 }
