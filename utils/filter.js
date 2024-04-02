@@ -55,8 +55,9 @@ fs.readFile('datasets/episode_dates', 'utf8', (err, txtData) => {
             const subjectRecord = csvSubjectRecords[index];
             const colorRecord = csvColorRecords[index];
 
-            // Extract the episode and subjects from the subject matter CSV record
-            const episode = subjectRecord['EPISODE'];
+            // Extract the episode, season, and subjects from the subject matter CSV record
+            const episode = colorRecord['episode'];
+            const season = colorRecord['season'];
             const subjects = Object.keys(subjectRecord).filter(key => key !== 'EPISODE' && subjectRecord[key] === '1');
 
             // Extract color information from the color info CSV record
@@ -64,16 +65,21 @@ fs.readFile('datasets/episode_dates', 'utf8', (err, txtData) => {
             const colorList = colors.replace(/\\r\\n/g, '').slice(1, -1).split(',').map(color => color.trim().slice(1, -1));
             const hexList = color_hex.replace(/\\r\\n/g, '').slice(1, -1).split(',').map(hex => hex.trim().slice(1, -1));
 
+            // Format the date correctly
+            const dateMatch = txtLine.match(/\(([^)]+)\)/);
+            const date = dateMatch ? new Date(dateMatch[1]).toISOString().split('T')[0] : '';
+
             // Construct the updated JSON object
             const updatedObject = {
               title: txtLine.match(/"([^"]+)"/)[1], // Extract title from text file
-              date: txtLine.match(/\(([^)]+)\)/)[1], // Extract date from text file
-              episode: episode,
-              subjects: subjects,
               painting_index: painting_index,
-              img_src: img_src,
+              date: date,
+              season: season,
+              episode: episode,
               num_colors: num_colors,
+              img_src: img_src,
               youtube_src: youtube_src,
+              subjects: subjects,
               colors: colorList,
               color_hex: hexList
             };
