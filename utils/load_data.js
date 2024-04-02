@@ -12,7 +12,6 @@ function loadData(callback) {
 
       // Parse JSON data
       const episodes = JSON.parse(data);
-      let pendingQueries = episodes.length * 2; // Two queries per episode (colors and subjects)
 
       // Insert episodes data into 'episodes' table
       episodes.forEach(episode => {
@@ -86,7 +85,6 @@ function loadData(callback) {
                                   return;
                               }
                               console.log('Inserted episode-color mapping:', result.insertId);
-                              pendingQueries--;
                           });
                       });
                   });
@@ -125,11 +123,6 @@ function loadData(callback) {
                                   return;
                               }
                               console.log('Inserted episode-subject mapping:', result.insertId);
-                              pendingQueries--;
-
-                              if (pendingQueries === 0) {
-                                  callback();
-                              }
                           });
                       });
                   });
@@ -139,10 +132,4 @@ function loadData(callback) {
   });
 }
 
-// Function to be called when loading is complete
-function loadingComplete() {
-  console.log('Loading complete');
-  process.exit(); // Exit the program
-}
-
-loadData(loadingComplete);
+loadData();
