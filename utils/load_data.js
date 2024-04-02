@@ -2,157 +2,147 @@ const fs = require('fs');
 const db = require('./db');
 
 // Function to load data from JSON file and insert into database
-function loadData() {
-    // Read the JSON file
-    fs.readFile('datasets/filtered_data.json', 'utf8', (err, data) => {
-        if (err) {
-            console.error('Error reading JSON file:', err);
-            return;
-        }
+function loadData(callback) {
+  // Read the JSON file
+  fs.readFile('datasets/filtered_data.json', 'utf8', (err, data) => {
+      if (err) {
+          console.error('Error reading JSON file:', err);
+          return;
+      }
 
-        // Parse JSON data
-        const episodes = JSON.parse(data);
+      // Parse JSON data
+      const episodes = JSON.parse(data);
+      let pendingQueries = episodes.length * 2; // Two queries per episode (colors and subjects)
 
-        // Insert episodes data into 'episodes' table
-        episodes.forEach(episode => {
-            const {
-                title,
-                painting_index,
-                date,
-                season,
-                episode: episodeNum,
-                img_src,
-                youtube_src,
-                subjects,
-                colors,
-                color_hex,
-            } = episode;
+      // Insert episodes data into 'episodes' table
+      episodes.forEach(episode => {
+          const {
+              title,
+              painting_index,
+              date,
+              season,
+              num_colors,
+              episode: episodeNum,
+              img_src,
+              youtube_src,
+              subjects,
+              colors,
+              color_hex,
+          } = episode;
 
-            const episodeData = {
-                painting_index,
-                title,
-                date,
-                season,
-                episode: episodeNum,
-                img_src,
-                youtube_src,
-            };
+          const episodeData = {
+              painting_index,
+              title,
+              date,
+              season,
+              num_colors,
+              episode: episodeNum,
+              img_src,
+              youtube_src,
+          };
 
-            db.query('INSERT INTO episodes SET ?', episodeData, (err, result) => {
-                if (err) {
-                    console.error('Error inserting episode:', err);
-                    return;
-                }
-                console.log('Inserted episode:', result.insertId);
+          db.query('INSERT INTO episodes SET ?', episodeData, (err, result) => {
+              if (err) {
+                  console.error('Error inserting episode:', err);
+                  return;
+              }
+              console.log('Inserted episode:', result.insertId);
 
-                // Insert colors into 'colors' table and map them to episode
-                colors.forEach((color, index) => {
-                    const colorData = {
-                        color_name: color,
-                        hex_value: color_hex[index],
-                    };
+              // Insert colors into 'colors' table and map them to episode
+              colors.forEach((color, index) => {
+                  const colorData = {
+                      color_name: color,
+                      hex_value: color_hex[index],
+                  };
 
-                    // Check if color exists in 'colors' table
-                    db.query('SELECT * FROM colors WHERE color_name = ?', color, (err, rows) => {
-                        if (err) {
-                            console.error('Error checking color:', err);
-                            return;
-                        }
+                  // Use INSERT IGNORE to handle duplicate colors
+                  db.query('INSERT IGNORE INTO colors SET ?', colorData, (err, result) => {
+                      if (err) {
+                          console.error('Error inserting color:', err);
+                          return;
+                      }
+                      if (result.affectedRows === 1) {
+                          console.log('Inserted color:', result.insertId);
+                      } else {
+                          console.log('Color already exists:', colorData.color_name);
+                      }
 
-                        if (rows.length === 0) {
-                            // If color does not exist, insert into 'colors' table
-                            db.query('INSERT INTO colors SET ?', colorData, (err, result) => {
-                                if (err) {
-                                    console.error('Error inserting color:', err);
-                                    return;
-                                }
-                                console.log('Inserted color:', result.insertId);
+                      // Retrieve color_id
+                      db.query('SELECT colors_id FROM colors WHERE color_name = ?', colorData.color_name, (err, rows) => {
+                          if (err) {
+                              console.error('Error retrieving color_id:', err);
+                              return;
+                          }
 
-                                // Insert mapping into 'episodes_colors' table
-                                const episodeColorData = {
-                                    painting_index,
-                                    colors_id: result.insertId,
-                                    num_colors: colors.length,
-                                };
+                          // Insert mapping into 'episodes_colors' table
+                          const episodeColorData = {
+                              painting_index,
+                              colors_id: rows[0].colors_id,
+                          };
 
-                                db.query('INSERT INTO episodes_colors SET ?', episodeColorData, (err, result) => {
-                                    if (err) {
-                                        console.error('Error inserting episode-color mapping:', err);
-                                        return;
-                                    }
-                                    console.log('Inserted episode-color mapping:', result.insertId);
-                                });
-                            });
-                        } else {
-                            // If color already exists, use existing color_id
-                            const episodeColorData = {
-                                painting_index,
-                                colors_id: rows[0].colors_id,
-                                num_colors: colors.length,
-                            };
+                          db.query('INSERT INTO episodes_colors SET ?', episodeColorData, (err, result) => {
+                              if (err) {
+                                  console.error('Error inserting episode-color mapping:', err);
+                                  return;
+                              }
+                              console.log('Inserted episode-color mapping:', result.insertId);
+                              pendingQueries--;
+                          });
+                      });
+                  });
+              });
 
-                            db.query('INSERT INTO episodes_colors SET ?', episodeColorData, (err, result) => {
-                                if (err) {
-                                    console.error('Error inserting episode-color mapping:', err);
-                                    return;
-                                }
-                                console.log('Inserted episode-color mapping:', result.insertId);
-                            });
-                        }
-                    });
-                });
+              // Insert subjects into 'subjects' table and map them to episode
+              subjects.forEach(subject => {
+                  // Use INSERT ... ON DUPLICATE KEY UPDATE to handle duplicate subjects
+                  db.query('INSERT INTO subjects (subject_name) VALUES (?) ON DUPLICATE KEY UPDATE subject_name = ?', [subject, subject], (err, result) => {
+                      if (err) {
+                          console.error('Error inserting subject:', err);
+                          return;
+                      }
+                      if (result.affectedRows === 1) {
+                          console.log('Inserted subject:', result.insertId);
+                      } else {
+                          console.log('Subject already exists:', subject);
+                      }
 
-                // Insert subjects into 'subjects' table and map them to episode
-                subjects.forEach(subject => {
-                    db.query('SELECT * FROM subjects WHERE subject_name = ?', subject, (err, rows) => {
-                        if (err) {
-                            console.error('Error checking subject:', err);
-                            return;
-                        }
+                      // Retrieve subject_id
+                      db.query('SELECT subject_id FROM subjects WHERE subject_name = ?', subject, (err, rows) => {
+                          if (err) {
+                              console.error('Error retrieving subject_id:', err);
+                              return;
+                          }
 
-                        if (rows.length === 0) {
-                            // If subject does not exist, insert into 'subjects' table
-                            db.query('INSERT INTO subjects SET ?', { subject_name: subject }, (err, result) => {
-                                if (err) {
-                                    console.error('Error inserting subject:', err);
-                                    return;
-                                }
-                                console.log('Inserted subject:', result.insertId);
+                          // Insert mapping into 'episode_subjects' table
+                          const episodeSubjectData = {
+                              painting_index,
+                              subject_id: rows[0].subject_id,
+                          };
 
-                                // Insert mapping into 'episode_subjects' table
-                                const episodeSubjectData = {
-                                    painting_index,
-                                    subject_id: result.insertId,
-                                };
+                          db.query('INSERT INTO episode_subjects SET ?', episodeSubjectData, (err, result) => {
+                              if (err) {
+                                  console.error('Error inserting episode-subject mapping:', err);
+                                  return;
+                              }
+                              console.log('Inserted episode-subject mapping:', result.insertId);
+                              pendingQueries--;
 
-                                db.query('INSERT INTO episode_subjects SET ?', episodeSubjectData, (err, result) => {
-                                    if (err) {
-                                        console.error('Error inserting episode-subject mapping:', err);
-                                        return;
-                                    }
-                                    console.log('Inserted episode-subject mapping:', result.insertId);
-                                });
-                            });
-                        } else {
-                            // If subject already exists, use existing subject_id
-                            const episodeSubjectData = {
-                                painting_index,
-                                subject_id: rows[0].subject_id,
-                            };
-
-                            db.query('INSERT INTO episode_subjects SET ?', episodeSubjectData, (err, result) => {
-                                if (err) {
-                                    console.error('Error inserting episode-subject mapping:', err);
-                                    return;
-                                }
-                                console.log('Inserted episode-subject mapping:', result.insertId);
-                            });
-                        }
-                    });
-                });
-            });
-        });
-    });
+                              if (pendingQueries === 0) {
+                                  callback();
+                              }
+                          });
+                      });
+                  });
+              });
+          });
+      });
+  });
 }
 
-loadData();
+// Function to be called when loading is complete
+function loadingComplete() {
+  console.log('Loading complete');
+  process.exit(); // Exit the program
+}
+
+loadData(loadingComplete);

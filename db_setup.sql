@@ -32,13 +32,15 @@ CREATE TABLE `episode_subjects` (
 
 CREATE TABLE `colors` (
   `colors_id` integer AUTO_INCREMENT,
-  `color_name` text,
+  `color_name` VARCHAR(255),
   `hex_value` text,
-  PRIMARY KEY (`colors_id`)
+  PRIMARY KEY (`colors_id`),
+  UNIQUE (`color_name`)
 );
 
 CREATE TABLE `subjects` (
   `subject_id` integer AUTO_INCREMENT,
-  `subject_name` text,
-  PRIMARY KEY (`subject_id`)
+  `subject_name` VARCHAR(255),
+  PRIMARY KEY (`subject_id`),
+  UNIQUE (`subject_name`)
 );
