@@ -11,6 +11,7 @@ CREATE TABLE `episodes` (
   `date` date,
   `season` integer,
   `episode` integer,
+  `num_colors` integer,
   `notes` text,
   `img_src` text,
   `youtube_src` text,
@@ -20,7 +21,6 @@ CREATE TABLE `episodes` (
 CREATE TABLE `episodes_colors` (
   `painting_index` integer,
   `colors_id` integer,
-  `num_colors` integer,
   PRIMARY KEY (`painting_index`, `colors_id`)
 );
 
