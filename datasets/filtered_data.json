@@ -1,1614 +1,6041 @@
 [
   {
     "title": "A Walk in the Woods",
-    "date": "January 11, 1983"
+    "date": "January 11, 1983",
+    "episode": "S01E01",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mount McKinley",
-    "date": "January 11, 1983"
+    "date": "January 11, 1983",
+    "episode": "S01E02",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "MOUNTAIN",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Ebony Sunset",
-    "date": "January 18, 1983"
+    "date": "January 18, 1983",
+    "episode": "S01E03",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "FENCE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "STRUCTURE",
+      "SUN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Winter Mist",
-    "date": "January 25, 1983"
+    "date": "January 25, 1983",
+    "episode": "S01E04",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Quiet Stream",
-    "date": "February 1, 1983"
+    "date": "February 1, 1983",
+    "episode": "S01E05",
+    "subjects": [
+      "DECIDUOUS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Moon",
-    "date": "February 8, 1983"
+    "date": "February 8, 1983",
+    "episode": "S01E06",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "LAKE",
+      "MOON",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "NIGHT",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Autumn Mountains",
-    "date": "February 15, 1983"
+    "date": "February 15, 1983",
+    "episode": "S01E07",
+    "subjects": [
+      "DECIDUOUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Peaceful Valley",
-    "date": "February 22, 1983"
+    "date": "February 22, 1983",
+    "episode": "S01E08",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Seascape",
-    "date": "March 1, 1983"
+    "date": "March 1, 1983",
+    "episode": "S01E09",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "FENCE",
+      "OCEAN"
+    ]
   },
   {
     "title": "Mountain Lake",
-    "date": "March 8, 1983"
+    "date": "March 8, 1983",
+    "episode": "S01E10",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "DECIDUOUS",
+      "LAKE",
+      "MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Glow",
-    "date": "March 15, 1983"
+    "date": "March 15, 1983",
+    "episode": "S01E11",
+    "subjects": [
+      "DECIDUOUS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Snowfall",
-    "date": "March 22, 1983"
+    "date": "March 22, 1983",
+    "episode": "S01E12",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Final Reflections",
-    "date": "March 29, 1983"
+    "date": "March 29, 1983",
+    "episode": "S01E13",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Meadow Lake",
-    "date": "August 31, 1983"
+    "date": "August 31, 1983",
+    "episode": "S02E01",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Sun",
-    "date": "September 7, 1983"
+    "date": "September 7, 1983",
+    "episode": "S02E02",
+    "subjects": [
+      "CONIFER",
+      "LAKE",
+      "SNOW",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Ebony Sea",
-    "date": "September 14, 1983"
+    "date": "September 14, 1983",
+    "episode": "S02E03",
+    "subjects": [
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "OCEAN",
+      "SUN",
+      "TREE",
+      "TREES",
+      "WAVES"
+    ]
   },
   {
     "title": "Shades of Gray",
-    "date": "September 21, 1983"
+    "date": "September 21, 1983",
+    "episode": "S02E04",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Autumn Splendor",
-    "date": "September 28, 1983"
+    "date": "September 28, 1983",
+    "episode": "S02E05",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Black River",
-    "date": "October 5, 1983"
+    "date": "October 5, 1983",
+    "episode": "S02E06",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Brown Mountain",
-    "date": "October 12, 1983"
+    "date": "October 12, 1983",
+    "episode": "S02E07",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Reflections",
-    "date": "October 19, 1983"
+    "date": "October 19, 1983",
+    "episode": "S02E08",
+    "subjects": [
+      "BUSHES",
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Black & White Seascape",
-    "date": "October 26, 1983"
+    "date": "October 26, 1983",
+    "episode": "S02E09",
+    "subjects": [
+      "CIRRUS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "OCEAN",
+      "ROCKS",
+      "SUN",
+      "TREE",
+      "TREES",
+      "WAVES"
+    ]
   },
   {
     "title": "Lazy River",
-    "date": "November 2, 1983"
+    "date": "November 2, 1983",
+    "episode": "S02E10",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Black Waterfall",
-    "date": "November 9, 1983"
+    "date": "November 9, 1983",
+    "episode": "S02E11",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Mountain Waterfall",
-    "date": "November 16, 1983"
+    "date": "November 16, 1983",
+    "episode": "S02E12",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Final Grace",
-    "date": "November 23, 1983"
+    "date": "November 23, 1983",
+    "episode": "S02E13",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Retreat",
-    "date": "January 4, 1984"
+    "date": "January 4, 1984",
+    "episode": "S03E01",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Blue Moon",
-    "date": "January 11, 1984"
+    "date": "January 11, 1984",
+    "episode": "S03E02",
+    "subjects": [
+      "CLOUDS",
+      "CUMULUS",
+      "MOON",
+      "NIGHT",
+      "OCEAN",
+      "PALM_TREES",
+      "TREE",
+      "TREES",
+      "WAVES"
+    ]
   },
   {
     "title": "Bubbling Stream",
-    "date": "January 18, 1984"
+    "date": "January 18, 1984",
+    "episode": "S03E03",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Night",
-    "date": "January 25, 1984"
+    "date": "January 25, 1984",
+    "episode": "S03E04",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Distant Hills",
-    "date": "February 1, 1984"
+    "date": "February 1, 1984",
+    "episode": "S03E05",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "HILLS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Covered Bridge",
-    "date": "February 8, 1984"
+    "date": "February 8, 1984",
+    "episode": "S03E06",
+    "subjects": [
+      "BRIDGE",
+      "DECIDUOUS",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Quiet Inlet",
-    "date": "February 15, 1984"
+    "date": "February 15, 1984",
+    "episode": "S03E07",
+    "subjects": [
+      "DECIDUOUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Night Light",
-    "date": "February 22, 1984"
+    "date": "February 22, 1984",
+    "episode": "S03E08",
+    "subjects": [
+      "CLIFF",
+      "CLOUDS",
+      "CUMULUS",
+      "LIGHTHOUSE",
+      "NIGHT",
+      "OCEAN",
+      "STRUCTURE",
+      "WAVES"
+    ]
   },
   {
     "title": "The Old Mill",
-    "date": "March 1, 1984"
+    "date": "March 1, 1984",
+    "episode": "S03E09",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "MILL",
+      "RIVER",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Campfire",
-    "date": "March 8, 1984"
+    "date": "March 8, 1984",
+    "episode": "S03E10",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "FIRE",
+      "LAKE",
+      "PERSON",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Rustic Barn",
-    "date": "March 15, 1984"
+    "date": "March 15, 1984",
+    "episode": "S03E11",
+    "subjects": [
+      "BARN",
+      "DECIDUOUS",
+      "FENCE",
+      "LAKE",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Hidden Lake",
-    "date": "March 22, 1984"
+    "date": "March 22, 1984",
+    "episode": "S03E12",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "DECIDUOUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Peaceful Waters",
-    "date": "March 29, 1984"
+    "date": "March 29, 1984",
+    "episode": "S03E13",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GUEST",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "STEVE_ROSS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Purple Splendor",
-    "date": "September 5, 1984"
+    "date": "September 5, 1984",
+    "episode": "S04E01",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "LAKE",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Tranquil Valley",
-    "date": "September 12, 1984"
+    "date": "September 12, 1984",
+    "episode": "S04E02",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Majestic Mountains",
-    "date": "September 19, 1984"
+    "date": "September 19, 1984",
+    "episode": "S04E03",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Sawscape",
-    "date": "September 26, 1984"
+    "date": "September 26, 1984",
+    "episode": "S04E04",
+    "subjects": [
+      "CABIN",
+      "CIRCLE_FRAME",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "FRAMED",
+      "GUEST",
+      "LAKE",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Evening Seascape",
-    "date": "October 3, 1984"
+    "date": "October 3, 1984",
+    "episode": "S04E05",
+    "subjects": [
+      "BEACH",
+      "CLIFF",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "OCEAN",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WAVES"
+    ]
   },
   {
     "title": "Warm Summer Day",
-    "date": "October 10, 1984"
+    "date": "October 10, 1984",
+    "episode": "S04E06",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Cabin in the Woods",
-    "date": "October 17, 1984"
+    "date": "October 17, 1984",
+    "episode": "S04E07",
+    "subjects": [
+      "CABIN",
+      "DECIDUOUS",
+      "GRASS",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Wetlands",
-    "date": "October 24, 1984"
+    "date": "October 24, 1984",
+    "episode": "S04E08",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Cool Waters",
-    "date": "October 31, 1984"
+    "date": "October 31, 1984",
+    "episode": "S04E09",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Quiet Woods",
-    "date": "November 7, 1984"
+    "date": "November 7, 1984",
+    "episode": "S04E10",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Northwest Majesty",
-    "date": "November 14, 1984"
+    "date": "November 14, 1984",
+    "episode": "S04E11",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DIANE_ANDRE",
+      "GUEST",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Autumn Days",
-    "date": "November 21, 1984"
+    "date": "November 21, 1984",
+    "episode": "S04E12",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "HILLS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Challenge",
-    "date": "November 28, 1984"
+    "date": "November 28, 1984",
+    "episode": "S04E13",
+    "subjects": [
+      "CONIFER",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE"
+    ]
   },
   {
     "title": "Mountain Waterfall",
-    "date": "January 2, 1985"
+    "date": "January 2, 1985",
+    "episode": "S05E01",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Twilight Meadow",
-    "date": "January 9, 1985"
+    "date": "January 9, 1985",
+    "episode": "S05E02",
+    "subjects": [
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Blossoms",
-    "date": "January 16, 1985"
+    "date": "January 16, 1985",
+    "episode": "S05E03",
+    "subjects": [
+      "CONIFER",
+      "FLOWERS",
+      "GUEST",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Stillness",
-    "date": "January 23, 1985"
+    "date": "January 23, 1985",
+    "episode": "S05E04",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "LAKE",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Quiet Pond",
-    "date": "January 30, 1985"
+    "date": "January 30, 1985",
+    "episode": "S05E05",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Ocean Sunrise",
-    "date": "February 6, 1985"
+    "date": "February 6, 1985",
+    "episode": "S05E06",
+    "subjects": [
+      "CLOUDS",
+      "GRASS",
+      "GUEST",
+      "OCEAN",
+      "SUN"
+    ]
   },
   {
     "title": "Bubbling Brook",
-    "date": "February 13, 1985"
+    "date": "February 13, 1985",
+    "episode": "S05E07",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Arizona Splendor",
-    "date": "February 20, 1985"
+    "date": "February 20, 1985",
+    "episode": "S05E08",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Anatomy of a Wave",
-    "date": "February 27, 1985"
+    "date": "February 27, 1985",
+    "episode": "S05E09",
+    "subjects": [
+      "GUEST",
+      "OCEAN",
+      "WAVES"
+    ]
   },
   {
     "title": "The Windmill",
-    "date": "March 6, 1985"
+    "date": "March 6, 1985",
+    "episode": "S05E10",
+    "subjects": [
+      "BARN",
+      "CLOUDS",
+      "DECIDUOUS",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "WINDMILL"
+    ]
   },
   {
     "title": "Autumn Glory",
-    "date": "March 13, 1985"
+    "date": "March 13, 1985",
+    "episode": "S05E11",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "ROCKS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Indian Girl",
-    "date": "March 20, 1985"
+    "date": "March 20, 1985",
+    "episode": "S05E12",
+    "subjects": [
+      "GUEST",
+      "PORTRAIT"
+    ]
   },
   {
     "title": "Meadow Stream",
-    "date": "March 27, 1985"
+    "date": "March 27, 1985",
+    "episode": "S05E13",
+    "subjects": [
+      "BARN",
+      "CLOUDS",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "ROCKS",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Blue River",
-    "date": "May 1, 1985"
+    "date": "May 1, 1985",
+    "episode": "S06E01",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "HILLS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Nature's Edge",
-    "date": "May 8, 1985"
+    "date": "May 8, 1985",
+    "episode": "S06E02",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CLOUDS",
+      "DECIDUOUS",
+      "FOG",
+      "GRASS",
+      "LAKE",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Morning Mist",
-    "date": "May 15, 1985"
+    "date": "May 15, 1985",
+    "episode": "S06E03",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "FOG",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Whispering Stream",
-    "date": "May 22, 1985"
+    "date": "May 22, 1985",
+    "episode": "S06E04",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Secluded Forest",
-    "date": "May 29, 1985"
+    "date": "May 29, 1985",
+    "episode": "S06E05",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Snow Trail",
-    "date": "June 5, 1985"
+    "date": "June 5, 1985",
+    "episode": "S06E06",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "GRASS",
+      "SNOW",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Arctic Beauty",
-    "date": "June 12, 1985"
+    "date": "June 12, 1985",
+    "episode": "S06E07",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Horizons West",
-    "date": "June 19, 1985"
+    "date": "June 19, 1985",
+    "episode": "S06E08",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "High Chateau",
-    "date": "June 26, 1985"
+    "date": "June 26, 1985",
+    "episode": "S06E09",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "GRASS",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Country Life",
-    "date": "July 2, 1985"
+    "date": "July 2, 1985",
+    "episode": "S06E10",
+    "subjects": [
+      "BARN",
+      "CIRRUS",
+      "CLOUDS",
+      "FENCE",
+      "GRASS"
+    ]
   },
   {
     "title": "Western Expanse",
-    "date": "July 9, 1985"
+    "date": "July 9, 1985",
+    "episode": "S06E11",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "TREE"
+    ]
   },
   {
     "title": "Marshlands",
-    "date": "July 16, 1985"
+    "date": "July 16, 1985",
+    "episode": "S06E12",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "DECIDUOUS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Blaze of Color",
-    "date": "July 23, 1985"
+    "date": "July 23, 1985",
+    "episode": "S06E13",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "HILLS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Cabin",
-    "date": "October 2, 1985"
+    "date": "October 2, 1985",
+    "episode": "S07E01",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "DECIDUOUS",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "WINTER"
+    ]
   },
   {
     "title": "Secluded Lake",
-    "date": "October 9, 1985"
+    "date": "October 9, 1985",
+    "episode": "S07E02",
+    "subjects": [
+      "CLOUDS",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Evergreen at Sunset",
-    "date": "October 16, 1985"
+    "date": "October 16, 1985",
+    "episode": "S07E03",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "RIVER",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Cabin",
-    "date": "October 23, 1985"
+    "date": "October 23, 1985",
+    "episode": "S07E04",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Portrait of Sally",
-    "date": "October 30, 1985"
+    "date": "October 30, 1985",
+    "episode": "S07E05",
+    "subjects": [
+      "GUEST",
+      "PORTRAIT"
+    ]
   },
   {
     "title": "Misty Waterfall",
-    "date": "November 6, 1985"
+    "date": "November 6, 1985",
+    "episode": "S07E06",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "LAKE",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Barn at Sunset",
-    "date": "November 13, 1985"
+    "date": "November 13, 1985",
+    "episode": "S07E07",
+    "subjects": [
+      "BARN",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "PATH",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Splendor",
-    "date": "November 20, 1985"
+    "date": "November 20, 1985",
+    "episode": "S07E08",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Lake by Mountain",
-    "date": "November 27, 1985"
+    "date": "November 27, 1985",
+    "episode": "S07E09",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GUEST",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "STEVE_ROSS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Glory",
-    "date": "December 6, 1985"
+    "date": "December 6, 1985",
+    "episode": "S07E10",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Grey Winter",
-    "date": "December 13, 1985"
+    "date": "December 13, 1985",
+    "episode": "S07E11",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "LAKE",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Dock Scene",
-    "date": "December 20, 1985"
+    "date": "December 20, 1985",
+    "episode": "S07E12",
+    "subjects": [
+      "BOAT",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "DOCK",
+      "LAKE",
+      "STRUCTURE",
+      "TREE"
+    ]
   },
   {
     "title": "Dark Waterfall",
-    "date": "December 27, 1985"
+    "date": "December 27, 1985",
+    "episode": "S07E13",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Misty Rolling Hills",
-    "date": "January 2, 1986"
+    "date": "January 2, 1986",
+    "episode": "S08E01",
+    "subjects": [
+      "CONIFER",
+      "FOG",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Lakeside Cabin",
-    "date": "January 9, 1986"
+    "date": "January 9, 1986",
+    "episode": "S08E02",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CIRCLE_FRAME",
+      "CLOUDS",
+      "DECIDUOUS",
+      "FRAMED",
+      "GRASS",
+      "LAKE",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Warm Winter Day",
-    "date": "January 16, 1986"
+    "date": "January 16, 1986",
+    "episode": "S08E03",
+    "subjects": [
+      "CABIN",
+      "DECIDUOUS",
+      "GRASS",
+      "SNOW",
+      "STRUCTURE",
+      "SUN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Waterside Way",
-    "date": "January 23, 1986"
+    "date": "January 23, 1986",
+    "episode": "S08E04",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "PATH",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Hunter's Haven",
-    "date": "January 30, 1986"
+    "date": "January 30, 1986",
+    "episode": "S08E05",
+    "subjects": [
+      "CABIN",
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "PATH",
+      "RIVER",
+      "ROCKS",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Bubbling Mountain Brook",
-    "date": "February 6, 1986"
+    "date": "February 6, 1986",
+    "episode": "S08E06",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Hideaway",
-    "date": "February 13, 1986"
+    "date": "February 13, 1986",
+    "episode": "S08E07",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "FENCE",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Foot of the Mountain",
-    "date": "February 20, 1986"
+    "date": "February 20, 1986",
+    "episode": "S08E08",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Majestic Pine",
-    "date": "February 27, 1986"
+    "date": "February 27, 1986",
+    "episode": "S08E09",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "FRAMED",
+      "RECTANGULAR_FRAME",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Cactus at Sunset",
-    "date": "March 6, 1986"
+    "date": "March 6, 1986",
+    "episode": "S08E10",
+    "subjects": [
+      "CACTUS",
+      "CLOUDS",
+      "PATH",
+      "ROCKS"
+    ]
   },
   {
     "title": "Mountain Range",
-    "date": "March 13, 1986"
+    "date": "March 13, 1986",
+    "episode": "S08E11",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GUEST",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "STEVE_ROSS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Lonely Retreat",
-    "date": "March 20, 1986"
+    "date": "March 20, 1986",
+    "episode": "S08E12",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "WINTER"
+    ]
   },
   {
     "title": "Northern Lights",
-    "date": "March 27, 1986"
+    "date": "March 27, 1986",
+    "episode": "S08E13",
+    "subjects": [
+      "AURORA_BOREALIS",
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "LAKE",
+      "MOUNTAIN",
+      "NIGHT",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Winter Evergreens",
-    "date": "April 30, 1986"
+    "date": "April 30, 1986",
+    "episode": "S09E01",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "SUN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Surf's Up",
-    "date": "May 7, 1986"
+    "date": "May 7, 1986",
+    "episode": "S09E02",
+    "subjects": [
+      "BEACH",
+      "CLIFF",
+      "CLOUDS",
+      "CUMULUS",
+      "OCEAN",
+      "ROCKS",
+      "WAVES"
+    ]
   },
   {
     "title": "Red Sunset",
-    "date": "May 14, 1986"
+    "date": "May 14, 1986",
+    "episode": "S09E03",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Meadow Road",
-    "date": "May 21, 1986"
+    "date": "May 21, 1986",
+    "episode": "S09E04",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "PATH",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Oval",
-    "date": "May 28, 1986"
+    "date": "May 28, 1986",
+    "episode": "S09E05",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CONIFER",
+      "FOG",
+      "FRAMED",
+      "MOUNTAIN",
+      "OVAL_FRAME",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Secluded Beach",
-    "date": "June 4, 1986"
+    "date": "June 4, 1986",
+    "episode": "S09E06",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "CUMULUS",
+      "OCEAN",
+      "ROCKS",
+      "WAVES"
+    ]
   },
   {
     "title": "Forest Hills",
-    "date": "June 11, 1986"
+    "date": "June 11, 1986",
+    "episode": "S09E07",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "ROCKS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Little House by the Road",
-    "date": "June 18, 1986"
+    "date": "June 18, 1986",
+    "episode": "S09E08",
+    "subjects": [
+      "CABIN",
+      "DECIDUOUS",
+      "FENCE",
+      "MOUNTAIN",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Pass",
-    "date": "June 25, 1986"
+    "date": "June 25, 1986",
+    "episode": "S09E09",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "MOUNTAIN",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Country Charm",
-    "date": "July 2, 1986"
+    "date": "July 2, 1986",
+    "episode": "S09E10",
+    "subjects": []
   },
   {
     "title": "Nature's Paradise",
-    "date": "July 9, 1986"
+    "date": "July 9, 1986",
+    "episode": "S09E11",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain by the Sea",
-    "date": "July 16, 1986"
+    "date": "July 16, 1986",
+    "episode": "S09E12",
+    "subjects": [
+      "BEACH",
+      "BUSHES",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "OCEAN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "WAVES"
+    ]
   },
   {
     "title": "Mountain Hideaway",
-    "date": "July 23, 1986"
+    "date": "July 23, 1986",
+    "episode": "S09E13",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Towering Peaks",
-    "date": "September 3, 1986"
+    "date": "September 3, 1986",
+    "episode": "S10E01",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "HILLS",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Cabin at Sunset",
-    "date": "September 10, 1986"
+    "date": "September 10, 1986",
+    "episode": "S10E02",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "FENCE",
+      "GRASS",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Twin Falls",
-    "date": "September 17, 1986"
+    "date": "September 17, 1986",
+    "episode": "S10E03",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "HILLS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Secluded Bridge",
-    "date": "September 24, 1986"
+    "date": "September 24, 1986",
+    "episode": "S10E04",
+    "subjects": [
+      "BRIDGE",
+      "DECIDUOUS",
+      "RIVER",
+      "ROCKS",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Ocean Breeze",
-    "date": "October 1, 1986"
+    "date": "October 1, 1986",
+    "episode": "S10E05",
+    "subjects": [
+      "CLOUDS",
+      "CUMULUS",
+      "OCEAN",
+      "ROCKS",
+      "WAVES"
+    ]
   },
   {
     "title": "Autumn Woods",
-    "date": "October 8, 1986"
+    "date": "October 8, 1986",
+    "episode": "S10E06",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Solitude",
-    "date": "October 15, 1986"
+    "date": "October 15, 1986",
+    "episode": "S10E07",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Golden Sunset",
-    "date": "October 22, 1986"
+    "date": "October 22, 1986",
+    "episode": "S10E08",
+    "subjects": [
+      "DECIDUOUS",
+      "LAKE",
+      "SNOW",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Oval",
-    "date": "October 29, 1986"
+    "date": "October 29, 1986",
+    "episode": "S10E09",
+    "subjects": [
+      "BUSHES",
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "FRAMED",
+      "GUEST",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "OVAL_FRAME",
+      "SNOWY_MOUNTAIN",
+      "STEVE_ROSS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Ocean Sunset",
-    "date": "November 5, 1986"
+    "date": "November 5, 1986",
+    "episode": "S10E10",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "OCEAN",
+      "ROCKS",
+      "WAVES"
+    ]
   },
   {
     "title": "Triple View",
-    "date": "November 12, 1986"
+    "date": "November 12, 1986",
+    "episode": "S10E11",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "FRAMED",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "PATH",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "TRIPLE_FRAME"
+    ]
   },
   {
     "title": "Winter Frost",
-    "date": "November 19, 1986"
+    "date": "November 19, 1986",
+    "episode": "S10E12",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "SUN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Lakeside Cabin",
-    "date": "November 26, 1986"
+    "date": "November 26, 1986",
+    "episode": "S10E13",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "PATH",
+      "ROCKS",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Stream",
-    "date": "December 31, 1986"
+    "date": "December 31, 1986",
+    "episode": "S11E01",
+    "subjects": [
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Country Cabin",
-    "date": "January 7, 1987"
+    "date": "January 7, 1987",
+    "episode": "S11E02",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Daisy Delight",
-    "date": "January 14, 1987"
+    "date": "January 14, 1987",
+    "episode": "S11E03",
+    "subjects": [
+      "CONIFER",
+      "FENCE",
+      "FLOWERS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Hidden Stream",
-    "date": "January 21, 1987"
+    "date": "January 21, 1987",
+    "episode": "S11E04",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "DECIDUOUS",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Towering Glacier",
-    "date": "January 28, 1987"
+    "date": "January 28, 1987",
+    "episode": "S11E05",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "GRASS",
+      "MOUNTAIN",
+      "RIVER",
+      "ROCKS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Oval Barn",
-    "date": "February 4, 1987"
+    "date": "February 4, 1987",
+    "episode": "S11E06",
+    "subjects": [
+      "BARN",
+      "BUSHES",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "FRAMED",
+      "OVAL_FRAME",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Lakeside Path",
-    "date": "February 11, 1987"
+    "date": "February 11, 1987",
+    "episode": "S11E07",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "PATH",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Sunset Oval",
-    "date": "February 18, 1987"
+    "date": "February 18, 1987",
+    "episode": "S11E08",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "FRAMED",
+      "LAKE",
+      "MOUNTAIN",
+      "OVAL_FRAME",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Barn",
-    "date": "February 25, 1987"
+    "date": "February 25, 1987",
+    "episode": "S11E09",
+    "subjects": [
+      "BARN",
+      "CIRRUS",
+      "CLOUDS",
+      "DECIDUOUS",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Sunset Over the Waves",
-    "date": "March 4, 1987"
+    "date": "March 4, 1987",
+    "episode": "S11E10",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "OCEAN",
+      "ROCKS",
+      "SUN",
+      "WAVES"
+    ]
   },
   {
     "title": "Golden Glow",
-    "date": "March 11, 1987"
+    "date": "March 11, 1987",
+    "episode": "S11E11",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "LAKE",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Roadside Barn",
-    "date": "March 18, 1987"
+    "date": "March 18, 1987",
+    "episode": "S11E12",
+    "subjects": [
+      "BARN",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "FENCE",
+      "LAKE",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Happy Accident",
-    "date": "March 25, 1987"
+    "date": "March 25, 1987",
+    "episode": "S11E13",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Golden Knoll",
-    "date": "April 29, 1987"
+    "date": "April 29, 1987",
+    "episode": "S12E01",
+    "subjects": [
+      "CABIN",
+      "DECIDUOUS",
+      "FOG",
+      "GRASS",
+      "STRUCTURE",
+      "SUN",
+      "TREE"
+    ]
   },
   {
     "title": "Mountain Reflections",
-    "date": "May 6, 1987"
+    "date": "May 6, 1987",
+    "episode": "S12E02",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "ROCKS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Secluded Mountain",
-    "date": "May 13, 1987"
+    "date": "May 13, 1987",
+    "episode": "S12E03",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Bright Autumn Trees",
-    "date": "May 20, 1987"
+    "date": "May 20, 1987",
+    "episode": "S12E04",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "PATH",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Black Seascape",
-    "date": "May 27, 1987"
+    "date": "May 27, 1987",
+    "episode": "S12E05",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "CUMULUS",
+      "NIGHT",
+      "OCEAN",
+      "ROCKS",
+      "WAVES"
+    ]
   },
   {
     "title": "Steep Mountains",
-    "date": "June 3, 1987"
+    "date": "June 3, 1987",
+    "episode": "S12E06",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Quiet Mountain River",
-    "date": "June 10, 1987"
+    "date": "June 10, 1987",
+    "episode": "S12E07",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Evening Waterfall",
-    "date": "June 17, 1987"
+    "date": "June 17, 1987",
+    "episode": "S12E08",
+    "subjects": [
+      "CONIFER",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Tropical Seascape",
-    "date": "June 24, 1987"
+    "date": "June 24, 1987",
+    "episode": "S12E09",
+    "subjects": [
+      "BEACH",
+      "CIRRUS",
+      "CLOUDS",
+      "OCEAN",
+      "PALM_TREES",
+      "WAVES"
+    ]
   },
   {
     "title": "Mountain at Sunset",
-    "date": "July 1, 1987"
+    "date": "July 1, 1987",
+    "episode": "S12E10",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Soft Mountain Glow",
-    "date": "July 8, 1987"
+    "date": "July 8, 1987",
+    "episode": "S12E11",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain in an Oval",
-    "date": "July 15, 1987"
+    "date": "July 15, 1987",
+    "episode": "S12E12",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "FRAMED",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "OVAL_FRAME",
+      "RIVER",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Mountain",
-    "date": "July 22, 1987"
+    "date": "July 22, 1987",
+    "episode": "S12E13",
+    "subjects": [
+      "CONIFER",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Rolling Hills",
-    "date": "September 2, 1987"
+    "date": "September 2, 1987",
+    "episode": "S13E01",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "GRASS",
+      "HILLS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Frozen Solitude",
-    "date": "September 9, 1987"
+    "date": "September 9, 1987",
+    "episode": "S13E02",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Meadow Brook",
-    "date": "September 16, 1987"
+    "date": "September 16, 1987",
+    "episode": "S13E03",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "DECIDUOUS",
+      "FRAMED",
+      "GRASS",
+      "MOUNTAIN",
+      "OVAL_FRAME",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Evening Sunset",
-    "date": "September 23, 1987"
+    "date": "September 23, 1987",
+    "episode": "S13E04",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "RIVER",
+      "ROCKS",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain View",
-    "date": "September 30, 1987"
+    "date": "September 30, 1987",
+    "episode": "S13E05",
+    "subjects": [
+      "CLOUDS",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Hidden Creek",
-    "date": "October 7, 1987"
+    "date": "October 7, 1987",
+    "episode": "S13E06",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Peaceful Haven",
-    "date": "October 14, 1987"
+    "date": "October 14, 1987",
+    "episode": "S13E07",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "PATH",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Exhibition",
-    "date": "October 21, 1987"
+    "date": "October 21, 1987",
+    "episode": "S13E08",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Emerald Waters",
-    "date": "October 28, 1987"
+    "date": "October 28, 1987",
+    "episode": "S13E09",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Summit",
-    "date": "November 4, 1987"
+    "date": "November 4, 1987",
+    "episode": "S13E10",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Cabin Hideaway",
-    "date": "November 11, 1987"
+    "date": "November 11, 1987",
+    "episode": "S13E11",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Oval Essence",
-    "date": "November 18, 1987"
+    "date": "November 18, 1987",
+    "episode": "S13E12",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "FRAMED",
+      "NIGHT",
+      "OCEAN",
+      "OVAL_FRAME",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WAVES"
+    ]
   },
   {
     "title": "Lost Lake",
-    "date": "November 25, 1987"
+    "date": "November 25, 1987",
+    "episode": "S13E13",
+    "subjects": [
+      "CONIFER",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "PATH",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Distant Mountains",
-    "date": "December 30, 1987"
+    "date": "December 30, 1987",
+    "episode": "S14E01",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "PATH",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Meadow Brook Surprise",
-    "date": "January 6, 1988"
+    "date": "January 6, 1988",
+    "episode": "S14E02",
+    "subjects": [
+      "CONIFER",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Moonlight Oval",
-    "date": "January 13, 1988"
+    "date": "January 13, 1988",
+    "episode": "S14E03",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "FRAMED",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "NIGHT",
+      "OVAL_FRAME",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Snowy Solitude",
-    "date": "January 20, 1988"
+    "date": "January 20, 1988",
+    "episode": "S14E04",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "DECIDUOUS",
+      "FENCE",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Mountain River",
-    "date": "January 27, 1988"
+    "date": "January 27, 1988",
+    "episode": "S14E05",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "FOG",
+      "FRAMED",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "ROCKS",
+      "TOMB_FRAME",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Graceful Mountains",
-    "date": "February 3, 1988"
+    "date": "February 3, 1988",
+    "episode": "S14E06",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Windy Waves",
-    "date": "February 10, 1988"
+    "date": "February 10, 1988",
+    "episode": "S14E07",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "CUMULUS",
+      "GRASS",
+      "OCEAN",
+      "PALM_TREES",
+      "WAVES"
+    ]
   },
   {
     "title": "On a Clear Day",
-    "date": "February 17, 1988"
+    "date": "February 17, 1988",
+    "episode": "S14E08",
+    "subjects": [
+      "CONIFER",
+      "MOUNTAIN",
+      "RIVER",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "SUN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Riverside Escape Oval",
-    "date": "February 24, 1988"
+    "date": "February 24, 1988",
+    "episode": "S14E09",
+    "subjects": [
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "FRAMED",
+      "OVAL_FRAME",
+      "PATH",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Surprising Falls",
-    "date": "March 2, 1988"
+    "date": "March 2, 1988",
+    "episode": "S14E10",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "DECIDUOUS",
+      "GUEST",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "STEVE_ROSS",
+      "TREE",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Shadow Pond",
-    "date": "March 9, 1988"
+    "date": "March 9, 1988",
+    "episode": "S14E11",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Misty Forest",
-    "date": "March 16, 1988"
+    "date": "March 16, 1988",
+    "episode": "S14E12",
+    "subjects": [
+      "CLOUDS",
+      "DECIDUOUS",
+      "FOG",
+      "FRAMED",
+      "GRASS",
+      "OVAL_FRAME",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Natural Wonder",
-    "date": "March 23, 1988"
+    "date": "March 23, 1988",
+    "episode": "S14E13",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Splendor of Winter",
-    "date": "April 27, 1988"
+    "date": "April 27, 1988",
+    "episode": "S15E01",
+    "subjects": [
+      "BUSHES",
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "SNOW",
+      "SUN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Colors of Nature",
-    "date": "May 4, 1988"
+    "date": "May 4, 1988",
+    "episode": "S15E02",
+    "subjects": [
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Grandpa's Barn",
-    "date": "May 11, 1988"
+    "date": "May 11, 1988",
+    "episode": "S15E03",
+    "subjects": [
+      "BARN",
+      "DECIDUOUS",
+      "FENCE",
+      "GRASS",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Peaceful Reflections",
-    "date": "May 18, 1988"
+    "date": "May 18, 1988",
+    "episode": "S15E04",
+    "subjects": []
   },
   {
     "title": "Hidden Winter Moon Oval",
-    "date": "May 25, 1988"
+    "date": "May 25, 1988",
+    "episode": "S15E05",
+    "subjects": [
+      "CABIN",
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "FRAMED",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "OVAL_FRAME",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Waves of Wonder",
-    "date": "June 1, 1988"
+    "date": "June 1, 1988",
+    "episode": "S15E06",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "CUMULUS",
+      "OCEAN",
+      "ROCKS",
+      "WAVES"
+    ]
   },
   {
     "title": "Cabin by the Pond",
-    "date": "June 8, 1988"
+    "date": "June 8, 1988",
+    "episode": "S15E07",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Fall Stream",
-    "date": "June 15, 1988"
+    "date": "June 15, 1988",
+    "episode": "S15E08",
+    "subjects": [
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Christmas Eve Snow",
-    "date": "June 22, 1988"
+    "date": "June 22, 1988",
+    "episode": "S15E09",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Forest Dawn Oval",
-    "date": "June 29, 1988"
+    "date": "June 29, 1988",
+    "episode": "S15E10",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "FRAMED",
+      "GRASS",
+      "OVAL_FRAME",
+      "PATH",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Pathway to Autumn",
-    "date": "July 6, 1988"
+    "date": "July 6, 1988",
+    "episode": "S15E11",
+    "subjects": [
+      "CABIN",
+      "DECIDUOUS",
+      "GRASS",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Deep Forest Lake",
-    "date": "July 13, 1988"
+    "date": "July 13, 1988",
+    "episode": "S15E12",
+    "subjects": [
+      "DECIDUOUS",
+      "LAKE",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Peaks of Majesty",
-    "date": "July 20, 1988"
+    "date": "July 20, 1988",
+    "episode": "S15E13",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Two Seasons",
-    "date": "August 17, 1988"
+    "date": "August 17, 1988",
+    "episode": "S16E01",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "FOG",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Nestled Cabin",
-    "date": "August 24, 1988"
+    "date": "August 24, 1988",
+    "episode": "S16E02",
+    "subjects": [
+      "CABIN",
+      "DECIDUOUS",
+      "GRASS",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Wintertime Discovery",
-    "date": "August 31, 1988"
+    "date": "August 31, 1988",
+    "episode": "S16E03",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Mountain Mirage",
-    "date": "September 7, 1988"
+    "date": "September 7, 1988",
+    "episode": "S16E04",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "FOG",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Double Oval Fantasy",
-    "date": "September 14, 1988"
+    "date": "September 14, 1988",
+    "episode": "S16E05",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DOUBLE_OVAL_FRAME",
+      "FRAMED",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Contemplative Lady",
-    "date": "September 21, 1988"
+    "date": "September 21, 1988",
+    "episode": "S16E06",
+    "subjects": [
+      "GUEST",
+      "PORTRAIT"
+    ]
   },
   {
     "title": "Deep Woods",
-    "date": "September 28, 1988"
+    "date": "September 28, 1988",
+    "episode": "S16E07",
+    "subjects": [
+      "CONIFER",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "High Tide",
-    "date": "October 5, 1988"
+    "date": "October 5, 1988",
+    "episode": "S16E08",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "OCEAN",
+      "PALM_TREES",
+      "WAVES"
+    ]
   },
   {
     "title": "Barn in Snow Oval",
-    "date": "October 12, 1988"
+    "date": "October 12, 1988",
+    "episode": "S16E09",
+    "subjects": [
+      "BARN",
+      "CONIFER",
+      "FENCE",
+      "FRAMED",
+      "OVAL_FRAME",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "That Time of Year",
-    "date": "October 19, 1988"
+    "date": "October 19, 1988",
+    "episode": "S16E10",
+    "subjects": [
+      "CLOUDS",
+      "DECIDUOUS",
+      "GUEST",
+      "HILLS",
+      "LAKE",
+      "STEVE_ROSS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Waterfall Wonder",
-    "date": "October 26, 1988"
+    "date": "October 26, 1988",
+    "episode": "S16E11",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Mighty Mountain Lake",
-    "date": "November 2, 1988"
+    "date": "November 2, 1988",
+    "episode": "S16E12",
+    "subjects": [
+      "CLOUDS",
+      "CUMULUS",
+      "FLOWERS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN"
+    ]
   },
   {
     "title": "Wooded Stream Oval",
-    "date": "November 9, 1988"
+    "date": "November 9, 1988",
+    "episode": "S16E13",
+    "subjects": [
+      "DECIDUOUS",
+      "FRAMED",
+      "OVAL_FRAME",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Golden Mist Oval",
-    "date": "January 4, 1989"
+    "date": "January 4, 1989",
+    "episode": "S17E01",
+    "subjects": [
+      "CONIFER",
+      "FOG",
+      "FRAMED",
+      "OVAL_FRAME",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Old Place Home",
-    "date": "January 11, 1989"
+    "date": "January 11, 1989",
+    "episode": "S17E02",
+    "subjects": [
+      "CABIN",
+      "DECIDUOUS",
+      "FENCE",
+      "GRASS",
+      "PATH",
+      "STRUCTURE",
+      "TREE"
+    ]
   },
   {
     "title": "Soothing Vista",
-    "date": "January 18, 1989"
+    "date": "January 18, 1989",
+    "episode": "S17E03",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Stormy Seas",
-    "date": "January 25, 1989"
+    "date": "January 25, 1989",
+    "episode": "S17E04",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "CUMULUS",
+      "OCEAN",
+      "ROCKS",
+      "SUN",
+      "WAVES"
+    ]
   },
   {
     "title": "Country Time",
-    "date": "February 1, 1989"
+    "date": "February 1, 1989",
+    "episode": "S17E05",
+    "subjects": [
+      "CABIN",
+      "DECIDUOUS",
+      "FLOWERS",
+      "FRAMED",
+      "LAKE",
+      "OVAL_FRAME",
+      "STRUCTURE",
+      "TREE"
+    ]
   },
   {
     "title": "A Mild Winter's Day",
-    "date": "February 8, 1989"
+    "date": "February 8, 1989",
+    "episode": "S17E06",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "RIVER",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Spectacular Waterfall",
-    "date": "February 15, 1989"
+    "date": "February 15, 1989",
+    "episode": "S17E07",
+    "subjects": [
+      "CONIFER",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "View From the Park",
-    "date": "February 22, 1989"
+    "date": "February 22, 1989",
+    "episode": "S17E08",
+    "subjects": [
+      "APPLE_FRAME",
+      "BRIDGE",
+      "BUILDING",
+      "DECIDUOUS",
+      "FRAMED",
+      "LAKE",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Lake View",
-    "date": "March 1, 1989"
+    "date": "March 1, 1989",
+    "episode": "S17E09",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "FLOWERS",
+      "GRASS",
+      "GUEST",
+      "HILLS",
+      "LAKE",
+      "STEVE_ROSS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Old Country Mill",
-    "date": "March 8, 1989"
+    "date": "March 8, 1989",
+    "episode": "S17E10",
+    "subjects": [
+      "DECIDUOUS",
+      "MILL",
+      "RIVER",
+      "ROCKS",
+      "STRUCTURE",
+      "TREE",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Morning Walk",
-    "date": "March 15, 1989"
+    "date": "March 15, 1989",
+    "episode": "S17E11",
+    "subjects": [
+      "DECIDUOUS",
+      "FOG",
+      "PATH",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Nature's Splendor",
-    "date": "March 22, 1989"
+    "date": "March 22, 1989",
+    "episode": "S17E12",
+    "subjects": [
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Beauty",
-    "date": "March 29, 1989"
+    "date": "March 29, 1989",
+    "episode": "S17E13",
+    "subjects": [
+      "CUMULUS",
+      "FLOWERS",
+      "GRASS",
+      "GUEST",
+      "HILLS",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Half Oval Vignette",
-    "date": "July 5, 1989"
+    "date": "July 5, 1989",
+    "episode": "S18E01",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "FRAMED",
+      "HALF_OVAL_FRAME",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Absolutely Autumn",
-    "date": "July 12, 1989"
+    "date": "July 12, 1989",
+    "episode": "S18E02",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Seclusion",
-    "date": "July 19, 1989"
+    "date": "July 19, 1989",
+    "episode": "S18E03",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Crimson Oval",
-    "date": "July 26, 1989"
+    "date": "July 26, 1989",
+    "episode": "S18E04",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Autumn Exhibition",
-    "date": "August 2, 1989"
+    "date": "August 2, 1989",
+    "episode": "S18E05",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Majestic Peaks",
-    "date": "August 9, 1989"
+    "date": "August 9, 1989",
+    "episode": "S18E06",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Golden Morning Mist",
-    "date": "August 16, 1989"
+    "date": "August 16, 1989",
+    "episode": "S18E07",
+    "subjects": [
+      "DECIDUOUS",
+      "FOG",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Lace",
-    "date": "August 23, 1989"
+    "date": "August 23, 1989",
+    "episode": "S18E08",
+    "subjects": [
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "FRAMED",
+      "HALF_CIRCLE_FRAME",
+      "LAKE",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Seascape Fantasy",
-    "date": "August 30, 1989"
+    "date": "August 30, 1989",
+    "episode": "S18E09",
+    "subjects": [
+      "BEACH",
+      "CIRRUS",
+      "CLOUDS",
+      "OCEAN",
+      "WAVES"
+    ]
   },
   {
     "title": "Double Oval Stream",
-    "date": "September 6, 1989"
+    "date": "September 6, 1989",
+    "episode": "S18E10",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "FRAMED",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Enchanted Forest",
-    "date": "September 13, 1989"
+    "date": "September 13, 1989",
+    "episode": "S18E11",
+    "subjects": [
+      "DECIDUOUS",
+      "PATH",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Southwest Serenity",
-    "date": "September 20, 1989"
+    "date": "September 20, 1989",
+    "episode": "S18E12",
+    "subjects": [
+      "CACTUS",
+      "CIRRUS",
+      "CLOUDS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "PATH"
+    ]
   },
   {
     "title": "Rippling Waters",
-    "date": "September 27, 1989"
+    "date": "September 27, 1989",
+    "episode": "S18E13",
+    "subjects": [
+      "DECIDUOUS",
+      "RIVER",
+      "ROCKS",
+      "SUN",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Snowfall Magic",
-    "date": "January 3, 1990"
+    "date": "January 3, 1990",
+    "episode": "S19E01",
+    "subjects": [
+      "DECIDUOUS",
+      "RIVER",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Quiet Mountain Lake",
-    "date": "January 10, 1990"
+    "date": "January 10, 1990",
+    "episode": "S19E02",
+    "subjects": [
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Final Embers of Sunlight",
-    "date": "January 17, 1990"
+    "date": "January 17, 1990",
+    "episode": "S19E03",
+    "subjects": [
+      "DECIDUOUS",
+      "FRAMED",
+      "OVAL_FRAME",
+      "RIVER",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Snowy Morn",
-    "date": "January 24, 1990"
+    "date": "January 24, 1990",
+    "episode": "S19E04",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Camper's Haven",
-    "date": "January 31, 1990"
+    "date": "January 31, 1990",
+    "episode": "S19E05",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Waterfall in the Woods",
-    "date": "February 7, 1990"
+    "date": "February 7, 1990",
+    "episode": "S19E06",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Covered Bridge Oval",
-    "date": "February 14, 1990"
+    "date": "February 14, 1990",
+    "episode": "S19E07",
+    "subjects": [
+      "BRIDGE",
+      "CONIFER",
+      "FENCE",
+      "FRAMED",
+      "OVAL_FRAME",
+      "RIVER",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Scenic Seclusion",
-    "date": "February 21, 1990"
+    "date": "February 21, 1990",
+    "episode": "S19E08",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Ebb Tide",
-    "date": "February 28, 1990"
+    "date": "February 28, 1990",
+    "episode": "S19E09",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "CUMULUS",
+      "OCEAN",
+      "ROCKS",
+      "SUN",
+      "WAVES"
+    ]
   },
   {
     "title": "After the Rain",
-    "date": "March 7, 1990"
+    "date": "March 7, 1990",
+    "episode": "S19E10",
+    "subjects": [
+      "DECIDUOUS",
+      "PATH",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winter Elegance",
-    "date": "March 14, 1990"
+    "date": "March 14, 1990",
+    "episode": "S19E11",
+    "subjects": [
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "LAKE",
+      "ROCKS",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Evening's Peace",
-    "date": "March 21, 1990"
+    "date": "March 21, 1990",
+    "episode": "S19E12",
+    "subjects": [
+      "BARN",
+      "CONIFER",
+      "DECIDUOUS",
+      "FENCE",
+      "MOON",
+      "NIGHT",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Valley of Tranquility",
-    "date": "March 28, 1990"
+    "date": "March 28, 1990",
+    "episode": "S19E13",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Mystic Mountain",
-    "date": "April 4, 1990"
+    "date": "April 4, 1990",
+    "episode": "S20E01",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "New Day's Dawn",
-    "date": "April 11, 1990"
+    "date": "April 11, 1990",
+    "episode": "S20E02",
+    "subjects": [
+      "BARN",
+      "CONIFER",
+      "FENCE",
+      "GRASS",
+      "PATH",
+      "STRUCTURE",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Pastel Winter",
-    "date": "April 18, 1990"
+    "date": "April 18, 1990",
+    "episode": "S20E03",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Hazy Day",
-    "date": "April 25, 1990"
+    "date": "April 25, 1990",
+    "episode": "S20E04",
+    "subjects": [
+      "DECIDUOUS",
+      "FOG",
+      "FRAMED",
+      "OVAL_FRAME",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Divine Elegance",
-    "date": "May 2, 1990"
+    "date": "May 2, 1990",
+    "episode": "S20E05",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "ROCKS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Cliffside",
-    "date": "May 9, 1990"
+    "date": "May 9, 1990",
+    "episode": "S20E06",
+    "subjects": [
+      "BEACH",
+      "CLIFF",
+      "CLOUDS",
+      "OCEAN",
+      "ROCKS",
+      "WAVES"
+    ]
   },
   {
     "title": "Autumn Fantasy",
-    "date": "May 16, 1990"
+    "date": "May 16, 1990",
+    "episode": "S20E07",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Old Oak Tree",
-    "date": "May 23, 1990"
+    "date": "May 23, 1990",
+    "episode": "S20E08",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE"
+    ]
   },
   {
     "title": "Winter Paradise",
-    "date": "May 30, 1990"
+    "date": "May 30, 1990",
+    "episode": "S20E09",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "MOUNTAIN",
+      "RIVER",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Days Gone By",
-    "date": "June 6, 1990"
+    "date": "June 6, 1990",
+    "episode": "S20E10",
+    "subjects": [
+      "BRIDGE",
+      "BUSHES",
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Change of Seasons",
-    "date": "June 13, 1990"
+    "date": "June 13, 1990",
+    "episode": "S20E11",
+    "subjects": [
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Hidden Delight",
-    "date": "June 20, 1990"
+    "date": "June 20, 1990",
+    "episode": "S20E12",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "PATH",
+      "RIVER",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Double Take",
-    "date": "June 27, 1990"
+    "date": "June 27, 1990",
+    "episode": "S20E13",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "FOG",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Valley View",
-    "date": "September 5, 1990"
+    "date": "September 5, 1990",
+    "episode": "S21E01",
+    "subjects": [
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Tranquil Dawn",
-    "date": "September 12, 1990"
+    "date": "September 12, 1990",
+    "episode": "S21E02",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "FOG",
+      "RIVER",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Royal Majesty",
-    "date": "September 19, 1990"
+    "date": "September 19, 1990",
+    "episode": "S21E03",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "ROCKS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Serenity",
-    "date": "September 26, 1990"
+    "date": "September 26, 1990",
+    "episode": "S21E04",
+    "subjects": [
+      "DECIDUOUS",
+      "FLOWERS",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Cabin at Trial's End",
-    "date": "October 3, 1990"
+    "date": "October 3, 1990",
+    "episode": "S21E05",
+    "subjects": [
+      "CABIN",
+      "DECIDUOUS",
+      "FRAMED",
+      "OVAL_FRAME",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Rhapsody",
-    "date": "October 10, 1990"
+    "date": "October 10, 1990",
+    "episode": "S21E06",
+    "subjects": [
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Wilderness Cabin",
-    "date": "October 17, 1990"
+    "date": "October 17, 1990",
+    "episode": "S21E07",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "LAKE",
+      "ROCKS",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "By the Sea",
-    "date": "October 24, 1990"
+    "date": "October 24, 1990",
+    "episode": "S21E08",
+    "subjects": [
+      "BEACH",
+      "CLIFF",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "OCEAN",
+      "ROCKS",
+      "SUN",
+      "TREE",
+      "WAVES"
+    ]
   },
   {
     "title": "Indian Summer",
-    "date": "October 31, 1990"
+    "date": "October 31, 1990",
+    "episode": "S21E09",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Blue Winter",
-    "date": "November 7, 1990"
+    "date": "November 7, 1990",
+    "episode": "S21E10",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Desert Glow",
-    "date": "November 14, 1990"
+    "date": "November 14, 1990",
+    "episode": "S21E11",
+    "subjects": [
+      "CACTUS",
+      "CLOUDS",
+      "FRAMED",
+      "MOUNTAIN",
+      "OVAL_FRAME",
+      "PATH"
+    ]
   },
   {
     "title": "Lone Mountain",
-    "date": "November 21, 1990"
+    "date": "November 21, 1990",
+    "episode": "S21E12",
+    "subjects": [
+      "CONIFER",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Florida's Glory",
-    "date": "November 28, 1990"
+    "date": "November 28, 1990",
+    "episode": "S21E13",
+    "subjects": [
+      "BEACH",
+      "FLORIDA_FRAME",
+      "OCEAN",
+      "PALM_TREES",
+      "WAVES"
+    ]
   },
   {
     "title": "Autumn Images",
-    "date": "January 1, 1991"
+    "date": "January 1, 1991",
+    "episode": "S22E01",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CUMULUS",
+      "DECIDUOUS",
+      "FLOWERS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Hint of Springtime",
-    "date": "January 8, 1991"
+    "date": "January 8, 1991",
+    "episode": "S22E02",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Around the Bend",
-    "date": "January 15, 1991"
+    "date": "January 15, 1991",
+    "episode": "S22E03",
+    "subjects": [
+      "CONIFER",
+      "FLOWERS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Countryside Oval",
-    "date": "January 22, 1991"
+    "date": "January 22, 1991",
+    "episode": "S22E04",
+    "subjects": [
+      "CLOUDS",
+      "DECIDUOUS",
+      "FRAMED",
+      "GRASS",
+      "HILLS",
+      "OVAL_FRAME",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Russet Winter",
-    "date": "January 29, 1991"
+    "date": "January 29, 1991",
+    "episode": "S22E05",
+    "subjects": [
+      "BARN",
+      "DECIDUOUS",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "WINTER"
+    ]
   },
   {
     "title": "Purple Haze",
-    "date": "February 5, 1991"
+    "date": "February 5, 1991",
+    "episode": "S22E06",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Dimensions",
-    "date": "February 12, 1991"
+    "date": "February 12, 1991",
+    "episode": "S22E07",
+    "subjects": [
+      "CONIFER",
+      "FRAMED",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RECTANGLE_3D_FRAME",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Deep Wilderness Home",
-    "date": "February 19, 1991"
+    "date": "February 19, 1991",
+    "episode": "S22E08",
+    "subjects": [
+      "CABIN",
+      "CLIFF",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Haven in the Valley",
-    "date": "February 26, 1991"
+    "date": "February 26, 1991",
+    "episode": "S22E09",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "FRAMED",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "OVAL_FRAME",
+      "PATH",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Wintertime Blues",
-    "date": "March 5, 1991"
+    "date": "March 5, 1991",
+    "episode": "S22E10",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Pastel Seascape",
-    "date": "March 12, 1991"
+    "date": "March 12, 1991",
+    "episode": "S22E11",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "FRAMED",
+      "OCEAN",
+      "OVAL_FRAME",
+      "SUN",
+      "WAVES"
+    ]
   },
   {
     "title": "Country Creek",
-    "date": "March 19, 1991"
+    "date": "March 19, 1991",
+    "episode": "S22E12",
+    "subjects": [
+      "CONIFER",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Silent Forest",
-    "date": "March 26, 1991"
+    "date": "March 26, 1991",
+    "episode": "S22E13",
+    "subjects": [
+      "CONIFER",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Frosty Winter Morn",
-    "date": "September 3, 1991"
+    "date": "September 3, 1991",
+    "episode": "S23E01",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "FENCE",
+      "HILLS",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Forest Edge",
-    "date": "September 10, 1991"
+    "date": "September 10, 1991",
+    "episode": "S23E02",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "GRASS",
+      "PATH",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountain Ridge Lake",
-    "date": "September 17, 1991"
+    "date": "September 17, 1991",
+    "episode": "S23E03",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE"
+    ]
   },
   {
     "title": "Reflections of Gold",
-    "date": "September 24, 1991"
+    "date": "September 24, 1991",
+    "episode": "S23E04",
+    "subjects": [
+      "CLOUDS",
+      "DECIDUOUS",
+      "FRAMED",
+      "OVAL_FRAME",
+      "RIVER",
+      "SNOW",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Quiet Cove",
-    "date": "October 1, 1991"
+    "date": "October 1, 1991",
+    "episode": "S23E05",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "DECIDUOUS",
+      "HILLS",
+      "LAKE",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "River's Peace",
-    "date": "October 8, 1991"
+    "date": "October 8, 1991",
+    "episode": "S23E06",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "At Dawn's Light",
-    "date": "October 15, 1991"
+    "date": "October 15, 1991",
+    "episode": "S23E07",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "DECIDUOUS",
+      "LAKE",
+      "PATH",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Valley Waterfall",
-    "date": "October 22, 1991"
+    "date": "October 22, 1991",
+    "episode": "S23E08",
+    "subjects": [
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "RIVER",
+      "ROCKS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Toward Day's End",
-    "date": "October 29, 1991"
+    "date": "October 29, 1991",
+    "episode": "S23E09",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "DECIDUOUS",
+      "FRAMED",
+      "GRASS",
+      "OVAL_FRAME",
+      "RIVER",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Falls in the Glen",
-    "date": "November 5, 1991"
+    "date": "November 5, 1991",
+    "episode": "S23E10",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Frozen Beauty in Vignette",
-    "date": "November 12, 1991"
+    "date": "November 12, 1991",
+    "episode": "S23E11",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "LAKE",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Crimson Tide",
-    "date": "November 19, 1991"
+    "date": "November 19, 1991",
+    "episode": "S23E12",
+    "subjects": [
+      "BEACH",
+      "CLIFF",
+      "CLOUDS",
+      "OCEAN",
+      "ROCKS",
+      "SUN",
+      "WAVES"
+    ]
   },
   {
     "title": "Winter Bliss",
-    "date": "November 26, 1991"
+    "date": "November 26, 1991",
+    "episode": "S23E13",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "FRAMED",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "OVAL_FRAME",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "WINTER"
+    ]
   },
   {
     "title": "Grey Mountain",
-    "date": "January 7, 1992"
+    "date": "January 7, 1992",
+    "episode": "S24E01",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "MOUNTAIN",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Wayside Pond",
-    "date": "January 14, 1992"
+    "date": "January 14, 1992",
+    "episode": "S24E02",
+    "subjects": [
+      "DECIDUOUS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Teton Winter",
-    "date": "January 21, 1992"
+    "date": "January 21, 1992",
+    "episode": "S24E03",
+    "subjects": [
+      "CABIN",
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Little Home in the Meadow",
-    "date": "January 28, 1992"
+    "date": "January 28, 1992",
+    "episode": "S24E04",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "FRAMED",
+      "GRASS",
+      "OVAL_FRAME",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Pretty Autumn Day",
-    "date": "February 4, 1992"
+    "date": "February 4, 1992",
+    "episode": "S24E05",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "RIVER",
+      "ROCKS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mirrored Images",
-    "date": "February 11, 1992"
+    "date": "February 11, 1992",
+    "episode": "S24E06",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Back-Country Path",
-    "date": "February 18, 1992"
+    "date": "February 18, 1992",
+    "episode": "S24E07",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "PATH",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Graceful Waterfall",
-    "date": "February 25, 1992"
+    "date": "February 25, 1992",
+    "episode": "S24E08",
+    "subjects": [
+      "CLIFF",
+      "DECIDUOUS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Icy Lake",
-    "date": "March 3, 1992"
+    "date": "March 3, 1992",
+    "episode": "S24E09",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "FRAMED",
+      "GUEST",
+      "LAKE",
+      "OVAL_FRAME",
+      "SNOW",
+      "STEVE_ROSS",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Rowboat on the Beach",
-    "date": "March 10, 1992"
+    "date": "March 10, 1992",
+    "episode": "S24E10",
+    "subjects": [
+      "BEACH",
+      "BOAT",
+      "CLOUDS",
+      "FRAMED",
+      "GRASS",
+      "HILLS",
+      "OCEAN",
+      "OVAL_FRAME",
+      "SUN",
+      "WAVES"
+    ]
   },
   {
     "title": "Portrait of Winter",
-    "date": "March 17, 1992"
+    "date": "March 17, 1992",
+    "episode": "S24E11",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Footbridge",
-    "date": "March 24, 1992"
+    "date": "March 24, 1992",
+    "episode": "S24E12",
+    "subjects": [
+      "BRIDGE",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "ROCKS",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Snowbound Cabin",
-    "date": "March 31, 1992"
+    "date": "March 31, 1992",
+    "episode": "S24E13",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "FENCE",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Hide-a-Way Cove",
-    "date": "August 25, 1992"
+    "date": "August 25, 1992",
+    "episode": "S25E01",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Enchanted Falls Oval",
-    "date": "September 1, 1992"
+    "date": "September 1, 1992",
+    "episode": "S25E02",
+    "subjects": [
+      "DECIDUOUS",
+      "FRAMED",
+      "OVAL_FRAME",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Not Quite Spring",
-    "date": "September 8, 1992"
+    "date": "September 8, 1992",
+    "episode": "S25E03",
+    "subjects": [
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Splashes of Autumn",
-    "date": "September 15, 1992"
+    "date": "September 15, 1992",
+    "episode": "S25E04",
+    "subjects": [
+      "DECIDUOUS",
+      "LAKE",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Summer in the Mountains",
-    "date": "September 22, 1992"
+    "date": "September 22, 1992",
+    "episode": "S25E05",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "GUEST",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "STEVE_ROSS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Oriental Falls",
-    "date": "September 29, 1992"
+    "date": "September 29, 1992",
+    "episode": "S25E06",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "FOG",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Autumn Palette",
-    "date": "October 6, 1992"
+    "date": "October 6, 1992",
+    "episode": "S25E07",
+    "subjects": [
+      "DECIDUOUS",
+      "FENCE",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Cypress Swamp",
-    "date": "October 13, 1992"
+    "date": "October 13, 1992",
+    "episode": "S25E08",
+    "subjects": [
+      "DECIDUOUS",
+      "LAKE",
+      "TREE"
+    ]
   },
   {
     "title": "Downstream View",
-    "date": "October 20, 1992"
+    "date": "October 20, 1992",
+    "episode": "S25E09",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Just Before the Storm",
-    "date": "October 27, 1992"
+    "date": "October 27, 1992",
+    "episode": "S25E10",
+    "subjects": [
+      "CLOUDS",
+      "FRAMED",
+      "OCEAN",
+      "OVAL_FRAME",
+      "PALM_TREES",
+      "WAVES"
+    ]
   },
   {
     "title": "Fisherman's Paradise",
-    "date": "November 3, 1992"
+    "date": "November 3, 1992",
+    "episode": "S25E11",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "LAKE",
+      "STRUCTURE",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Desert Hues",
-    "date": "November 10, 1992"
+    "date": "November 10, 1992",
+    "episode": "S25E12",
+    "subjects": [
+      "CACTUS",
+      "CIRRUS",
+      "CLOUDS",
+      "MOUNTAIN",
+      "PATH"
+    ]
   },
   {
     "title": "The Property Line",
-    "date": "November 17, 1992"
+    "date": "November 17, 1992",
+    "episode": "S25E13",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "FENCE",
+      "SNOW",
+      "TREE",
+      "WINTER"
+    ]
   },
   {
     "title": "In the Stillness of Morning",
-    "date": "December 1, 1992"
+    "date": "December 1, 1992",
+    "episode": "S26E01",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "FOG",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Delightful Meadow Home",
-    "date": "December 8, 1992"
+    "date": "December 8, 1992",
+    "episode": "S26E02",
+    "subjects": [
+      "CABIN",
+      "DECIDUOUS",
+      "FENCE",
+      "GRASS",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "First Snow",
-    "date": "December 15, 1992"
+    "date": "December 15, 1992",
+    "episode": "S26E03",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Lake in the Valley",
-    "date": "December 22, 1992"
+    "date": "December 22, 1992",
+    "episode": "S26E04",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "PATH",
+      "SNOWY_MOUNTAIN",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "A Trace of Spring",
-    "date": "December 29, 1992"
+    "date": "December 29, 1992",
+    "episode": "S26E05",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "DECIDUOUS",
+      "FLOWERS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "An Arctic Winter Day",
-    "date": "January 5, 1993"
+    "date": "January 5, 1993",
+    "episode": "S26E06",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Snow Birch",
-    "date": "January 12, 1993"
+    "date": "January 12, 1993",
+    "episode": "S26E07",
+    "subjects": [
+      "DECIDUOUS",
+      "LAKE",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Early Autumn",
-    "date": "January 19, 1993"
+    "date": "January 19, 1993",
+    "episode": "S26E08",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "FRAMED",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "OVAL_FRAME",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Tranquil Wooded Stream",
-    "date": "January 26, 1993"
+    "date": "January 26, 1993",
+    "episode": "S26E09",
+    "subjects": [
+      "DECIDUOUS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Purple Mountain Range",
-    "date": "February 2, 1993"
+    "date": "February 2, 1993",
+    "episode": "S26E10",
+    "subjects": []
   },
   {
     "title": "Storm's a Comin'",
-    "date": "February 9, 1993"
+    "date": "February 9, 1993",
+    "episode": "S26E11",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "CUMULUS",
+      "HILLS",
+      "OCEAN",
+      "ROCKS",
+      "WAVES"
+    ]
   },
   {
     "title": "Sunset Aglow",
-    "date": "February 16, 1993"
+    "date": "February 16, 1993",
+    "episode": "S26E12",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Evening at the Falls",
-    "date": "February 23, 1993"
+    "date": "February 23, 1993",
+    "episode": "S26E13",
+    "subjects": [
+      "CONIFER",
+      "NIGHT",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Twilight Beauty",
-    "date": "March 2, 1993"
+    "date": "March 2, 1993",
+    "episode": "S27E01",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "FOG",
+      "FRAMED",
+      "LAKE",
+      "OVAL_FRAME",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Angler's Haven",
-    "date": "March 9, 1993"
+    "date": "March 9, 1993",
+    "episode": "S27E02",
+    "subjects": [
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "ROCKS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Rustic Winter Woods",
-    "date": "March 16, 1993"
+    "date": "March 16, 1993",
+    "episode": "S27E03",
+    "subjects": [
+      "DECIDUOUS",
+      "SNOW",
+      "SUN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Wilderness Falls",
-    "date": "March 23, 1993"
+    "date": "March 23, 1993",
+    "episode": "S27E04",
+    "subjects": [
+      "BUSHES",
+      "CLOUDS",
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Winter at the Farm",
-    "date": "March 30, 1993"
+    "date": "March 30, 1993",
+    "episode": "S27E05",
+    "subjects": [
+      "CONIFER",
+      "FARM",
+      "FENCE",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Daisies at Dawn",
-    "date": "April 6, 1993"
+    "date": "April 6, 1993",
+    "episode": "S27E06",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "FLOWERS",
+      "FRAMED",
+      "LAKE",
+      "OVAL_FRAME",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "A Spectacular View",
-    "date": "April 13, 1993"
+    "date": "April 13, 1993",
+    "episode": "S27E07",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Daybreak",
-    "date": "April 20, 1993"
+    "date": "April 20, 1993",
+    "episode": "S27E08",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "FENCE",
+      "FOG",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Island Paradise",
-    "date": "April 27, 1993"
+    "date": "April 27, 1993",
+    "episode": "S27E09",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "FRAMED",
+      "HILLS",
+      "OCEAN",
+      "OVAL_FRAME",
+      "PALM_TREES",
+      "ROCKS",
+      "WAVES"
+    ]
   },
   {
     "title": "Sunlight in the Shadows",
-    "date": "May 4, 1993"
+    "date": "May 4, 1993",
+    "episode": "S27E10",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "GRASS",
+      "GUEST",
+      "RIVER",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Splendor of a Snowy Winter",
-    "date": "May 11, 1993"
+    "date": "May 11, 1993",
+    "episode": "S27E11",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "MOUNTAIN",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Forest River",
-    "date": "May 18, 1993"
+    "date": "May 18, 1993",
+    "episode": "S27E12",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Golden Glow of Morning",
-    "date": "May 20, 1993"
+    "date": "May 20, 1993",
+    "episode": "S27E13",
+    "subjects": [
+      "CONIFER",
+      "FOG",
+      "LAKE",
+      "ROCKS",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Fisherman's Trail",
-    "date": "May 25, 1993"
+    "date": "May 25, 1993",
+    "episode": "S28E01",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "PATH",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "A Warm Winter",
-    "date": "June 1, 1993"
+    "date": "June 1, 1993",
+    "episode": "S28E02",
+    "subjects": [
+      "BARN",
+      "CONIFER",
+      "DECIDUOUS",
+      "HILLS",
+      "SNOW",
+      "STRUCTURE",
+      "SUN",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Under Pastel Skies",
-    "date": "June 8, 1993"
+    "date": "June 8, 1993",
+    "episode": "S28E03",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Golden Rays of Sunlight",
-    "date": "June 15, 1993"
+    "date": "June 15, 1993",
+    "episode": "S28E04",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "The Magic of Fall",
-    "date": "June 22, 1993"
+    "date": "June 22, 1993",
+    "episode": "S28E05",
+    "subjects": [
+      "DECIDUOUS",
+      "FENCE",
+      "GRASS",
+      "TREE"
+    ]
   },
   {
     "title": "Glacier Lake",
-    "date": "June 29, 1993"
+    "date": "June 29, 1993",
+    "episode": "S28E06",
+    "subjects": [
+      "CONIFER",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "ROCKS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "The Old Weathered Barn",
-    "date": "July 6, 1993"
+    "date": "July 6, 1993",
+    "episode": "S28E07",
+    "subjects": [
+      "BARN",
+      "DECIDUOUS",
+      "GRASS",
+      "PATH",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Deep Forest Falls",
-    "date": "July 13, 1993"
+    "date": "July 13, 1993",
+    "episode": "S28E08",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "RIVER",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Winter's Grace",
-    "date": "July 20, 1993"
+    "date": "July 20, 1993",
+    "episode": "S28E09",
+    "subjects": [
+      "CONIFER",
+      "FOG",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Splendor of Autumn",
-    "date": "July 27, 1993"
+    "date": "July 27, 1993",
+    "episode": "S28E10",
+    "subjects": [
+      "DECIDUOUS",
+      "FOG",
+      "GRASS",
+      "LAKE",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Tranquil Seas",
-    "date": "August 3, 1993"
+    "date": "August 3, 1993",
+    "episode": "S28E11",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "CUMULUS",
+      "OCEAN",
+      "SUN",
+      "WAVES"
+    ]
   },
   {
     "title": "Mountain Serenity",
-    "date": "August 10, 1993"
+    "date": "August 10, 1993",
+    "episode": "S28E12",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Home Before Nightfall",
-    "date": "August 17, 1993"
+    "date": "August 17, 1993",
+    "episode": "S28E13",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "DECIDUOUS",
+      "GRASS",
+      "NIGHT",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Island in the Wilderness",
-    "date": "August 24, 1993"
+    "date": "August 24, 1993",
+    "episode": "S29E01",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Autumn Oval",
-    "date": "August 31, 1993"
+    "date": "August 31, 1993",
+    "episode": "S29E02",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "FRAMED",
+      "LAKE",
+      "MOUNTAINS",
+      "OVAL_FRAME",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Seasonal Progression",
-    "date": "September 7, 1993"
+    "date": "September 7, 1993",
+    "episode": "S29E03",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "FRAMED",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "SPLIT_FRAME",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Light at the Summit",
-    "date": "September 14, 1993"
+    "date": "September 14, 1993",
+    "episode": "S29E04",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "PATH",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Countryside Barn",
-    "date": "September 21, 1993"
+    "date": "September 21, 1993",
+    "episode": "S29E05",
+    "subjects": [
+      "BARN",
+      "DECIDUOUS",
+      "GRASS",
+      "PATH",
+      "STRUCTURE",
+      "TREE"
+    ]
   },
   {
     "title": "Mountain Lake Falls",
-    "date": "September 28, 1993"
+    "date": "September 28, 1993",
+    "episode": "S29E06",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Cypress Creek",
-    "date": "October 5, 1993"
+    "date": "October 5, 1993",
+    "episode": "S29E07",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Trapper's Cabin",
-    "date": "October 12, 1993"
+    "date": "October 12, 1993",
+    "episode": "S29E08",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Storm on the Horizon",
-    "date": "October 19, 1993"
+    "date": "October 19, 1993",
+    "episode": "S29E09",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "GRASS",
+      "OCEAN",
+      "PALM_TREES",
+      "ROCKS",
+      "WAVES"
+    ]
   },
   {
     "title": "Pot O' Posies",
-    "date": "October 26, 1993"
+    "date": "October 26, 1993",
+    "episode": "S29E10",
+    "subjects": [
+      "FLOWERS",
+      "GUEST"
+    ]
   },
   {
     "title": "A Perfect Winter Day",
-    "date": "November 2, 1993"
+    "date": "November 2, 1993",
+    "episode": "S29E11",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "MOUNTAIN",
+      "SNOW",
+      "SNOWY_MOUNTAIN",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Aurora's Dance",
-    "date": "November 9, 1993"
+    "date": "November 9, 1993",
+    "episode": "S29E12",
+    "subjects": [
+      "AURORA_BOREALIS",
+      "CABIN",
+      "CONIFER",
+      "LAKE",
+      "NIGHT",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Woodsman's Retreat",
-    "date": "November 16, 1993"
+    "date": "November 16, 1993",
+    "episode": "S29E13",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Babbling Brook",
-    "date": "November 23, 1993"
+    "date": "November 23, 1993",
+    "episode": "S30E01",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "GRASS",
+      "RIVER",
+      "TREE",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Woodgrain View",
-    "date": "November 30, 1993"
+    "date": "November 30, 1993",
+    "episode": "S30E02",
+    "subjects": [
+      "DECIDUOUS",
+      "FRAMED",
+      "GRASS",
+      "LAKE",
+      "MOUNTAIN",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "WOOD_FRAMED"
+    ]
   },
   {
     "title": "Winter's Peace",
-    "date": "December 7, 1993"
+    "date": "December 7, 1993",
+    "episode": "S30E03",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "LAKE",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Wilderness Trail",
-    "date": "December 14, 1993"
+    "date": "December 14, 1993",
+    "episode": "S30E04",
+    "subjects": [
+      "BUSHES",
+      "DECIDUOUS",
+      "PATH",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "A Copper Winter",
-    "date": "December 21, 1993"
+    "date": "December 21, 1993",
+    "episode": "S30E05",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "LAKE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Misty Foothills",
-    "date": "December 28, 1993"
+    "date": "December 28, 1993",
+    "episode": "S30E06",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "HILLS",
+      "LAKE",
+      "MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Through the Window",
-    "date": "January 4, 1994"
+    "date": "January 4, 1994",
+    "episode": "S30E07",
+    "subjects": [
+      "CONIFER",
+      "DECIDUOUS",
+      "FRAMED",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINDOW_FRAME",
+      "WINTER"
+    ]
   },
   {
     "title": "Home in the Valley",
-    "date": "January 11, 1994"
+    "date": "January 11, 1994",
+    "episode": "S30E08",
+    "subjects": [
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "CUMULUS",
+      "GRASS",
+      "LAKE",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Mountains of Grace",
-    "date": "January 18, 1994"
+    "date": "January 18, 1994",
+    "episode": "S30E09",
+    "subjects": [
+      "CIRRUS",
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "GUEST",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "SNOWY_MOUNTAIN",
+      "STEVE_ROSS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Seaside Harmony",
-    "date": "January 25, 1994"
+    "date": "January 25, 1994",
+    "episode": "S30E10",
+    "subjects": [
+      "BEACH",
+      "CLOUDS",
+      "OCEAN",
+      "ROCKS",
+      "WAVES"
+    ]
   },
   {
     "title": "A Cold Spring Day",
-    "date": "February 1, 1994"
+    "date": "February 1, 1994",
+    "episode": "S30E11",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Evening's Glow",
-    "date": "February 8, 1994"
+    "date": "February 8, 1994",
+    "episode": "S30E12",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "PATH",
+      "SUN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Blue Ridge Falls",
-    "date": "February 15, 1994"
+    "date": "February 15, 1994",
+    "episode": "S30E13",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "MOUNTAIN",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES",
+      "WATERFALL"
+    ]
   },
   {
     "title": "Reflections of Calm",
-    "date": "February 22, 1994"
+    "date": "February 22, 1994",
+    "episode": "S31E01",
+    "subjects": [
+      "CONIFER",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Before the Snowfall",
-    "date": "March 1, 1994"
+    "date": "March 1, 1994",
+    "episode": "S31E02",
+    "subjects": [
+      "BUSHES",
+      "CABIN",
+      "CLOUDS",
+      "CONIFER",
+      "RIVER",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Winding Stream",
-    "date": "March 8, 1994"
+    "date": "March 8, 1994",
+    "episode": "S31E03",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "GRASS",
+      "RIVER",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Tranquility Cove",
-    "date": "March 15, 1994"
+    "date": "March 15, 1994",
+    "episode": "S31E04",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "LAKE",
+      "ROCKS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Cabin in the Hollow",
-    "date": "March 22, 1994"
+    "date": "March 22, 1994",
+    "episode": "S31E05",
+    "subjects": [
+      "CABIN",
+      "CONIFER",
+      "FRAMED",
+      "OVAL_FRAME",
+      "RIVER",
+      "SNOW",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "View From Clear Creek",
-    "date": "March 29, 1994"
+    "date": "March 29, 1994",
+    "episode": "S31E06",
+    "subjects": [
+      "BUSHES",
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "RIVER",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Bridge to Autumn",
-    "date": "April 5, 1994"
+    "date": "April 5, 1994",
+    "episode": "S31E07",
+    "subjects": [
+      "BRIDGE",
+      "DECIDUOUS",
+      "LAKE",
+      "PATH",
+      "STRUCTURE",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Trail's End",
-    "date": "April 12, 1994"
+    "date": "April 12, 1994",
+    "episode": "S31E08",
+    "subjects": [
+      "CLOUDS",
+      "DECIDUOUS",
+      "PATH",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Evergreen Valley",
-    "date": "April 19, 1994"
+    "date": "April 19, 1994",
+    "episode": "S31E09",
+    "subjects": [
+      "CONIFER",
+      "GRASS",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "ROCKS",
+      "SNOWY_MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "Balmy Beach",
-    "date": "April 26, 1994"
+    "date": "April 26, 1994",
+    "episode": "S31E10",
+    "subjects": [
+      "BEACH",
+      "FRAMED",
+      "OCEAN",
+      "PALM_TREES",
+      "ROCKS",
+      "SEASHELL_FRAME",
+      "WAVES"
+    ]
   },
   {
     "title": "Lake at the Ridge",
-    "date": "May 3, 1994"
+    "date": "May 3, 1994",
+    "episode": "S31E11",
+    "subjects": [
+      "CLOUDS",
+      "CONIFER",
+      "DECIDUOUS",
+      "GRASS",
+      "GUEST",
+      "LAKE",
+      "MOUNTAIN",
+      "MOUNTAINS",
+      "SNOWY_MOUNTAIN",
+      "STEVE_ROSS",
+      "TREE",
+      "TREES"
+    ]
   },
   {
     "title": "In the Midst of Winter",
-    "date": "May 10, 1994"
+    "date": "May 10, 1994",
+    "episode": "S31E12",
+    "subjects": [
+      "BARN",
+      "CONIFER",
+      "DECIDUOUS",
+      "FOG",
+      "PATH",
+      "SNOW",
+      "STRUCTURE",
+      "TREE",
+      "TREES",
+      "WINTER"
+    ]
   },
   {
     "title": "Wilderness Day",
-    "date": "May 17, 1994"
+    "date": "May 17, 1994",
+    "episode": "S31E13",
+    "subjects": [
+      "DECIDUOUS",
+      "GRASS",
+      "MOUNTAIN",
+      "TREE",
+      "TREES"
+    ]
   }
 ]
