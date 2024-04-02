@@ -31,14 +31,14 @@ CREATE TABLE `episode_subjects` (
 );
 
 CREATE TABLE `colors` (
-  `colors_id` integer,
+  `colors_id` integer AUTO_INCREMENT,
   `color_name` text,
   `hex_value` text,
   PRIMARY KEY (`colors_id`)
 );
 
 CREATE TABLE `subjects` (
-  `subject_id` integer,
+  `subject_id` integer AUTO_INCREMENT,
   `subject_name` text,
   PRIMARY KEY (`subject_id`)
 );
